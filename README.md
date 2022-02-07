@@ -1,2 +1,2 @@
-# EDUBRIDGE_DATA-ANALYSTICS
+# Edubridge data analytics
 ### projects completed during my training 
